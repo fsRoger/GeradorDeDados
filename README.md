@@ -22,7 +22,7 @@ Para rodar esta aplicação, você precisará ter:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/gerador-de-dados.git
+   git clone https://github.com/fsRoger/gerador-de-dados.git
    ```
 
 2. **Navegue até o diretório do projeto:**

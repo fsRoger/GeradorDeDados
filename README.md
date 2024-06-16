@@ -146,7 +146,7 @@ Muito obrigado por conferir nosso projeto! Se você encontrou alguma dificuldade
 
 ---
 
-**Desenvolvedor:** Seu Nome - [Seu Perfil no GitHub](https://github.com/fsRoger)
+**Desenvolvedor:** Roger Ferreira - [fsRoger](https://github.com/fsRoger)
 
 ---
 
